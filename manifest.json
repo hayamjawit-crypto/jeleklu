@@ -1,9 +1,6 @@
 {
     "name": "nexus-tool",
     "version": "5.0.0",
-    "main": "main.js",
-    "main_url": "https://raw.githubusercontent.com/hayamjawit-crypto/jeleklu/main/main.js",
-    "config_url": "https://raw.githubusercontent.com/hayamjawit-crypto/jeleklu/main/config.json",
     "updatedAt": "2026-10-11",
     "changelog": "initial"
 }
